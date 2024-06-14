@@ -65,7 +65,7 @@ header{
             color: #fff;
 
             &:hover{
-                background-color: darken(variaveis.$corSecundaria, 50%);
+                background-color: lighten(variaveis.$corSecundaria, 15%);
             }
         }
 
